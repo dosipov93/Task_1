@@ -4,6 +4,7 @@ venv/
 
 # Кеш Python
 __pycache__/
+.pytest_cache/
 *.pyc
 
 # Отчёты покрытия
